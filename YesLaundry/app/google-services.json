@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "555755130556",
+    "project_id": "yes-laundry",
+    "storage_bucket": "yes-laundry.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:555755130556:android:9b410a53e82cb90fea4ab9",
+        "android_client_info": {
+          "package_name": "com.michael.yeslaundry"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "555755130556-nu0ne9a49emphqriara8hhtefvraa9bv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2BwvYMfHuBLaFRKlh0pjUE3jsHcJrZdY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "555755130556-nu0ne9a49emphqriara8hhtefvraa9bv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
